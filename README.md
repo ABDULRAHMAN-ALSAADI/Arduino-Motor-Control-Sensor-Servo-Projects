@@ -96,8 +96,7 @@ As a result, I implemented the circuit without the L293D to simulate the desired
 - 1 × Arduino Uno
 - 1 × HC-SR04 Ultrasonic Sensor
 - 1 × Servo Motor
-- Jumper wires and breadboard
-
+- 
 ### 🎯 Behavior:
 This circuit controls a servo motor based on distance readings from the ultrasonic sensor:
 
