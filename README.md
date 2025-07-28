@@ -6,7 +6,7 @@ This repository contains two Arduino projects created and simulated using **Tink
 
 ## ⚙️ Project 1: 4-Motor Vehicle Control with L293D
 
-TinkerCad link : https://www.tinkercad.com/things/lz9jEudcWxk-servo-with-ultrasonic
+TinkerCad link : https://www.tinkercad.com/things/1JjX8tCUVOg-dc-motor-with-l293d
 
 ### 🛠️ Components Used:
 - 1 × Arduino Uno
@@ -93,6 +93,8 @@ void loop() {
 This circuit was originally meant to be built using an L293D motor driver shield, but the shield is not available in simulation platforms like Tinkercad, Wokwi, or Proteus.
 Although the L293D IC is available, it only works correctly with DC motors in these simulators — it doesn't function properly with servo motors.
 As a result, I implemented the circuit without the L293D to simulate the desired behavior using available components.
+
+TinkerCad link : https://www.tinkercad.com/things/lz9jEudcWxk-servo-with-ultrasonic
 
 ### 🛠️ Components Used:
 - 1 × Arduino Uno
