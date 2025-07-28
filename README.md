@@ -6,6 +6,8 @@ This repository contains two Arduino projects created and simulated using **Tink
 
 ## ⚙️ Project 1: 4-Motor Vehicle Control with L293D
 
+TinkerCad link : https://www.tinkercad.com/things/lz9jEudcWxk-servo-with-ultrasonic
+
 ### 🛠️ Components Used:
 - 1 × Arduino Uno
 - 1 × L293D Motor Driver IC
